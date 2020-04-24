@@ -7,7 +7,7 @@ be sent to this user. Please follow instructions below.
 
 ![git demo](gif/git.gif)
 
-    Then open terminal within a folder, were you want to download file.
+    Then open terminal within a folder, were you want to download this project.
     Enter command "git clone" and paste adress you copied above in terminal.
 
 ![git demo](gif/terminal.gif)
@@ -30,11 +30,11 @@ be sent to this user. Please follow instructions below.
 
     You will receive confirmation email:
     
-![git demo](mailReceived.png)
+![Image](mailReceived.png)
 
     Now you can log in:
     
-![git demo](web_2.png)
+![git demo](gif/web_2.png)
 
 
 
