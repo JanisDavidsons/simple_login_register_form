@@ -30,11 +30,11 @@ be sent to this user. Please follow instructions below.
 
     You will receive confirmation email:
     
-![Image](mailReceived.png)
+![Image](gif/mailReceived.png)
 
     Now you can log in:
     
-![git demo](gif/web_2.png)
+![git demo](gif/web_2.gif)
 
 
 
