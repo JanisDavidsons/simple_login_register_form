@@ -8,7 +8,7 @@ be sent to this user. Please follow instructions below.
 ![git demo](gif/git.gif)
 
     Then open terminal within a folder, were you want to download this project.
-    Enter command "git clone" and paste adress you copied above in terminal.
+    Enter command "git clone" and paste adress in terminal.
 
 ![git demo](gif/terminal.gif)
 
@@ -20,13 +20,9 @@ be sent to this user. Please follow instructions below.
     
 ![git demo](gif/terminal_2.gif)
 
-    Open web browser and register by entering your credentials:
+    Open web browser and register yourself by entering your credentials:
     
 ![git demo](gif/web_1.gif)
-
-    Then you must enter your database credentials, like so:
-    
-![git demo](gif/settings.gif)
 
     You will receive confirmation email:
     
