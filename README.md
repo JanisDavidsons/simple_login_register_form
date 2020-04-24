@@ -40,8 +40,10 @@ be sent to this user. Please follow instructions below.
 
 This exercise shows:
  
-          * how to find first od even pair in array.
-          * how to find sum of number in array from index a to index b.
-          * how to extract part of string from first character occurrence to second char occurrence.
+          * How to build simple login/ register form.
+          * How to build email service and send conmfirmation message to new users.
+          * How to code simple save data and retrieve it from mysql database.
+          * How to build sesions, so once user logs in, he can change browser tabs and stay logged in.
           
-If I had more time, I would implement a way, to let user enter search parameters for each function.
+          
+If I had more time, I would finish up password reset function. I had bug in that code, so I removed it.
